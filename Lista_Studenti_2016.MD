@@ -29,6 +29,7 @@ Grupa: 1220F
 |Varasteanu Marius|https://github.com/wreckerr/ALF|https://github.com/wreckerr/SDE|
 |Yousfi Amine|https://github.com/amineyousfi/ALF|https://github.com/amineyousfi/SE|
 |Ndeme Fabrice|https://github.com/fabricelepapi||
+|Samer Guicha|https://github.com/sguicha/ALF-TD|https://github.com/sguicha/SE|
 
 Grupa: 1221F
 
